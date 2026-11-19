@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Desktop\Pizza-Project-main\bin\Debug\Pizza-Project.exe.config
+C:\Users\HP\OneDrive\Desktop\Pizza-Project-main\bin\Debug\Pizza-Project.exe
+C:\Users\HP\OneDrive\Desktop\Pizza-Project-main\bin\Debug\Pizza-Project.pdb
+C:\Users\HP\OneDrive\Desktop\Pizza-Project-main\obj\Debug\Pizza-Project.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Pizza-Project-main\obj\Debug\Pizza_Project.MainForm.resources
+C:\Users\HP\OneDrive\Desktop\Pizza-Project-main\obj\Debug\Pizza_Project.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\Pizza-Project-main\obj\Debug\Pizza-Project.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\Pizza-Project-main\obj\Debug\Pizza-Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Pizza-Project-main\obj\Debug\Pizza-Project.exe
+C:\Users\HP\OneDrive\Desktop\Pizza-Project-main\obj\Debug\Pizza-Project.pdb
